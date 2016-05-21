@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+shift+space"], "command":"run_macro_file","args": {"file":"Packages/User/expand_region.sublime-macro"} },
+]
